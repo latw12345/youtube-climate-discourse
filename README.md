@@ -71,19 +71,19 @@ In addition, I included a location-based comparison to examine whether local env
 
 ## Comparison of Word Clouds
 
-**Word Cloud 1 — Neutral Framing**  
+**Word Cloud 1 - Neutral Framing**  
 ![Word Cloud 1: Neutral](img/wordcloud1.png)
 
-**Word Cloud 2 — Alarmist Framing**  
+**Word Cloud 2 - Alarmist Framing**  
 ![Word Cloud 2: Alarmist](img/wordcloud2.png)
 
-**Word Cloud 3 — Dismissive Framing**  
+**Word Cloud 3 - Dismissive Framing**  
 ![Word Cloud 3: Dismissive](img/wordcloud3.png)
 
-**Word Cloud 4 — Lower-Risk Locations**  
+**Word Cloud 4 - Lower-Risk Locations**  
 ![Word Cloud 4: Lower-Risk Cities](img/wordcloud4.png)
 
-**Word Cloud 5 — High-Risk Locations**  
+**Word Cloud 5 - High-Risk Locations**  
 ![Word Cloud 5: High-Risk Cities](img/wordcloud5.png)
 
 Across the three framing-based word clouds, clear differences emerge in both tone and thematic emphasis. The neutral framing cloud is characterized by language associated with communication, institutions, and general understanding rather than extreme urgency or outright rejection. Prominent terms such as _media_, _public_, _policy_, _scientists_, _coverage_, _communities_, _understanding_, and _discuss_ suggest that neutral searches tend to surface content focused on how climate change is explained, debated, and interpreted in public and academic contexts. Rather than emphasizing either crisis or denial, this framing presents climate change as an issue to be examined, communicated, and managed, reflecting a descriptive and governance-oriented style of discourse.
