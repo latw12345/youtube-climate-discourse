@@ -80,10 +80,10 @@ In addition, I included a location-based comparison to examine whether local env
 **Word Cloud 3 - Dismissive Framing**  
 ![Word Cloud 3: Dismissive](img/wordcloud3.png)
 
-**Word Cloud 4 - Lower-Risk Locations**  
+**Word Cloud 4 - High-Risk Locations**  
 ![Word Cloud 4: Lower-Risk Cities](img/wordcloud4.png)
 
-**Word Cloud 5 - High-Risk Locations**  
+**Word Cloud 5 - Low-Risk Locations**  
 ![Word Cloud 5: High-Risk Cities](img/wordcloud5.png)
 
 Across the three framing-based word clouds, clear differences emerge in both tone and thematic emphasis. The neutral framing cloud is characterized by language associated with communication, institutions, and general understanding rather than extreme urgency or outright rejection. Prominent terms such as _media_, _public_, _policy_, _scientists_, _coverage_, _communities_, _understanding_, and _discuss_ suggest that neutral searches tend to surface content focused on how climate change is explained, debated, and interpreted in public and academic contexts. Rather than emphasizing either crisis or denial, this framing presents climate change as an issue to be examined, communicated, and managed, reflecting a descriptive and governance-oriented style of discourse.
@@ -133,10 +133,10 @@ The full datasets used to generate each word cloud are available for download at
 - **Word Cloud 3 - Dismissive Framing:**  
   https://github.com/latw12345/youtube-climate-discourse/blob/main/assets/search-result-3.csv
 
-- **Word Cloud 4 - Lower-Risk Locations:**  
+- **Word Cloud 4 - High-Risk Locations:**  
   https://github.com/latw12345/youtube-climate-discourse/blob/main/assets/search-result-4.csv
 
-- **Word Cloud 5 - High-Risk Locations:**  
+- **Word Cloud 5 - Low-Risk Locations:**  
   https://github.com/latw12345/youtube-climate-discourse/blob/main/assets/search-result-5.csv
 
 Each file contains the video metadata used in this analysis, including video titles, channel information, search queries, and (for location-based searches) latitude and longitude fields to support spatial comparison and mapping.
