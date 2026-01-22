@@ -119,3 +119,24 @@ One of the most striking findings was how little the dismissive framing word clo
 This separation points toward the possibility of echo chamber dynamics within climate-related content. When dismissive language is used, the resulting content appears to reinforce a self-contained discourse centered on skepticism and ideological conflict, with relatively little crossover into discussions of physical impacts or scientific processes. This implies that users engaging with dismissive framing may be exposed to a narrower and more internally consistent set of narratives, while users engaging with neutral or alarmist framing are more likely to encounter content grounded in environmental impacts and institutional sources. The limited overlap across clouds highlights how framing choices may shape not only tone, but also the informational environment users are likely to encounter.
 
 Another unexpected pattern across nearly all five word clouds was the relative absence of strong solution-oriented language. While impacts, risks, and debates were highly visible, there were comparatively fewer dominant terms related to adaptation, mitigation, resilience, or concrete policy responses. This suggests that much of the discourse surfaced through these searches is oriented more toward describing problems or contesting narratives than toward sustained discussion of practical responses. This gap stood out because it indicates that even in high-risk locations and alarmist framing, where urgency is high, the dominant vocabulary still centers more on consequences than on actionable pathways forward.
+
+## Data Download Links
+
+The full datasets used to generate each word cloud are available for download at the links below. Each CSV corresponds directly to the matching word cloud shown above, in the same order.
+
+- **Word Cloud 1 - Neutral Framing:**  
+  https://github.com/latw12345/youtube-climate-discourse/blob/main/assets/search-result-1.csv
+
+- **Word Cloud 2 - Alarmist Framing:**  
+  https://github.com/latw12345/youtube-climate-discourse/blob/main/assets/search-result-2.csv
+
+- **Word Cloud 3 - Dismissive Framing:**  
+  https://github.com/latw12345/youtube-climate-discourse/blob/main/assets/search-result-3.csv
+
+- **Word Cloud 4 - Lower-Risk Locations:**  
+  https://github.com/latw12345/youtube-climate-discourse/blob/main/assets/search-result-4.csv
+
+- **Word Cloud 5 - High-Risk Locations:**  
+  https://github.com/latw12345/youtube-climate-discourse/blob/main/assets/search-result-5.csv
+
+Each file contains the video metadata used in this analysis, including video titles, channel information, search queries, and (for location-based searches) latitude and longitude fields to support spatial comparison and mapping.
